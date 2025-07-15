@@ -18,6 +18,7 @@ El desafío radica en:
 ## 📦 Datos
 
 Dataset público: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+- la data es muy grande se recomienda descargarla desde su respositorio.
 
 - ~284,807 transacciones
 - Solo ~0.17% son fraudes
@@ -73,6 +74,4 @@ Dataset público: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/
 ✅ XGBoost elegido como **modelo final** para etiquetar la base completa.
 
 ---
-
-## 🗂️ Contenido del repositorio
 
